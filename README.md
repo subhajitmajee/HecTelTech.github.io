@@ -20,11 +20,11 @@ A great professional looking and fully responsive personal website to showcase y
 1. Improve lighthouse score
 ```
 
-### Switch between light and dark theme
+### :Switch between light and dark theme
 
-### Other sections of portfolio website
+### :Other sections of portfolio website
 
-### Mobile and Tablet responsive layout
+### :Mobile and Tablet responsive layout
 
 ```
 1. Improve overall ratings as per lighthouse auditing
